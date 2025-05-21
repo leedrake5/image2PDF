@@ -35,4 +35,4 @@ if __name__ == "__main__":
     dst = Path(sys.argv[2]).expanduser().resolve()
     pngs_to_pdf(src, dst)
 
-python /Users/lee/GitHub/image2PDF/png_to_pdf.py /Users/lee/Downloads/HitachiDT_Proposal /Users/lee/Downloads/HitachiDT_Proposal.pdf
+#python /Users/lee/GitHub/image2PDF/png_to_pdf.py /Users/lee/Downloads/Hitachi-DT_Proposal /Users/lee/Downloads/Hitachi-DT_Proposal.pdf
